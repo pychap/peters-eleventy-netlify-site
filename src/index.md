@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Web presence for pyChapman. Technical articles, comments, some musings.
+title: Web presence for pyChapman… Technical articles, comments, some musings.
 metaDesc: Working with Eleventy and Netifly on this sweet custom Hyla theme by Andy Bell.
 postsHeading: Latest posts
 archiveButtonText: See all posts
