@@ -6,12 +6,16 @@
       "external": false
     },
     {
+      "text": "About me",
+      "url": "/about"
+    },
+    {
       "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "url": "https://github.com/pychap",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "Contact me",
       "url": "/contact",
       "external": false
     }
