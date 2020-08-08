@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "UI Love",
-  "shortDesc": "User Interface, Website building, Photography, Philosophical / Faith musings. ",
-  "url": "https://pychapman.netlify.app",
-  "authorEmail": "pychapman22@gmail.com",
-  "authorHandle": "@pychap",
-  "authorName": "Peter Chapman",
-  "enableThirdPartyComments": false,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 5
+    "showThemeCredit": true,
+    "name": "UI Love",
+    "shortDesc": "User Interface, Website building, Photography, Philosophical / musings on faith. ",
+    "url": "https://pychapman.netlify.app",
+    "authorEmail": "pychapman22@gmail.com",
+    "authorHandle": "@pychap",
+    "authorName": "Peter Chapman",
+    "enableThirdPartyComments": false,
+    "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+    "faviconPath": "/images/favicon.png",
+    "maxPostsPerPage": 5
 }
