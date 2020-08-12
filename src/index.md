@@ -6,4 +6,4 @@ postsHeading: Writings
 archiveButtonText: See all posts
 socialImage: ""
 ---
-A one-time wannabe Architect is introduced to User Interface, and ends up loving it!
+A one-time wannabe Architect is introduced to User Interface development, and ends up loving it!
