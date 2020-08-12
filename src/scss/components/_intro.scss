@@ -7,6 +7,9 @@
     background-size: cover;
     background-position-x: center;
     background-position-y: 35rem;
+    @media screen and (max-width: 425px) {
+        background-position-y: center;
+    }
     &__summary {
         --flow-space: #{get-size(500)};
         font-size: get-size(500);
