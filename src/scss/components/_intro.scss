@@ -1,5 +1,12 @@
 .intro {
+    display: flex;
+    align-items: center;
+    min-height: 23rem;
     background: var(--color-theme-highlight-block);
+    background-image: url('/images/sunorwind-C1MJ8IYUSmU-unsplash.jpg');
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 35rem;
     &__summary {
         --flow-space: #{get-size(500)};
         font-size: get-size(500);
