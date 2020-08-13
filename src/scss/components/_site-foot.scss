@@ -1,18 +1,20 @@
 .site-foot {
-  // Reverse whatever the theme colors are
-  background: var(--color-bg-glare);
-  color: var(--color-text);
-  border-top: 1px solid var(--color-stroke);
-
-  a {
-    color: currentColor;
-
-    &:hover {
-      text-decoration: none;
+    // Reverse whatever the theme colors are
+    background: var(--color-bg-glare);
+    color: var(--color-text);
+    border-top: 1px solid var(--color-stroke);
+    a {
+        color: currentColor;
+        &:hover {
+            text-decoration: none;
+        }
     }
-  }
-
-  &__credit {
-    text-align: center;
-  }
+    &__credit {
+        text-align: center;
+    }
+    &__details {
+        h2 {
+            @include apply-utility('font', 'serif');
+        }
+    }
 }

@@ -1,7 +1,12 @@
 .inner-wrapper {
-  max-width: map-get($metrics, 'wrap-inner-max-width');
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: get-size(500);
-  padding-right: get-size(500);
+    max-width: map-get($metrics, 'wrap-inner-max-width');
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: get-size(500);
+    padding-right: get-size(500);
+    h2,
+    h3 {
+        @include apply-utility('font', 'serif');
+        font-weight: 300;
+    }
 }
